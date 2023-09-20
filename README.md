@@ -1,4 +1,4 @@
-<code>🎓 Student: KPI / IM-12</code>
+<code>🎓 Student</code>
 <code>👷 Speciality: Software engineer </code><br>
 <code>💡 [Skills](SKILLS.md)</code>
 <code>🧻 [Projects](PROJECTS.md)</code>
